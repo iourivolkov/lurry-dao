@@ -33,3 +33,5 @@ import { readFileSync } from "fs";
     console.log("failed to deploy editionDrop contract", error);
   }
 })();
+
+// thirdweb editionDrop - 0xEB97ee0Ad858E688CaD12C67f728Df3a6AA3BC99
