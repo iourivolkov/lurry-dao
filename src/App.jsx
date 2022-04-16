@@ -1,3 +1,5 @@
+import { useAddress, useMetamask } from "@thirdweb-dev/react";
+
 const App = () => {
   return (
     <div className="landing">
