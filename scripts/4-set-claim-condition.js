@@ -1,7 +1,7 @@
 import sdk from "./1-initialize-sdk.js";
 import { MaxUint256 } from "@ethersproject/constants";
 
-// address = ERC1155's contract address
+// address = ERC1155's contract address (same as module 3)
 const editionDrop = sdk.getEditionDrop(
   "0xEB97ee0Ad858E688CaD12C67f728Df3a6AA3BC99"
 );
